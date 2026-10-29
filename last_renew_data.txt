@@ -1,34 +1,4 @@
 Server ID: Unknown
 Renew status: Failed
-Last renewal time: 2026-10-29 15:09:43
-Error: Timeout: Message: timeout: Timed out receiving message from renderer: -0.000
-  (Session info: chrome=156.0.8078.48)
-Stacktrace:
-Symbols not available. Dumping unresolved backtrace:
-	(No symbol) [0xa60913]
-	(No symbol) [0x96aec4]
-	(No symbol) [0x76c360]
-	(No symbol) [0x75c8a3]
-	(No symbol) [0x75c5d5]
-	(No symbol) [0x75a7a5]
-	(No symbol) [0x75afe6]
-	(No symbol) [0x767d47]
-	(No symbol) [0x7798d6]
-	(No symbol) [0x77fdd6]
-	(No symbol) [0x75b66c]
-	(No symbol) [0x779607]
-	(No symbol) [0x7ff983]
-	(No symbol) [0x7da4f6]
-	(No symbol) [0x7ac85a]
-	(No symbol) [0x7ad6e4]
-	(No symbol) [0xf20f64]
-	(No symbol) [0xf3f4ab]
-	(No symbol) [0xbb6d92]
-	(No symbol) [0xbbf2c3]
-	(No symbol) [0x9794c8]
-	(No symbol) [0x974038]
-	(No symbol) [0x9741e5]
-	(No symbol) [0x960587]
-	(No symbol) [0x76185d49]
-	(No symbol) [0x77c5d8cb]
-	(No symbol) [0x77c5d851]
+Last renewal time: 2026-10-29 21:00:53
+Error: Error: Unable to login to dashboard
